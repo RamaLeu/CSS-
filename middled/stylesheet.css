@@ -1,0 +1,13 @@
+.block{
+    display: inline-block;
+    width: 50%;
+    height: 20px;
+    float : left;
+    background-color: cyan;
+}
+.btn
+{
+    float: none;
+    text-align: center;
+    height: 50px;
+}

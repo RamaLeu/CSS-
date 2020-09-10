@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.article{
+    display : inline-block;
+    background-color: coral;
+    height: 100px;
+    width: 200px;
+}
+.sectionb{
+    height: 800px;
+    width: 500px;
+    background-color: cornflowerblue;
+}
+.btn1{
+    border-style: solid;
+    float : left;
+    height: 50px;
+    width: 150px;
+    background-color: crimson;
+}
+.btn2{
+    border-style: solid;
+    float : right;
+    height: 50px;
+    width: 150px;
+    background-color: crimson;
+}
+.btn3{
+    border-style: solid;
+    float : right;
+    height: 50px;
+    width: 150px;
+    padding: 5px 0;
+    background-color: crimson;
+    margin-top: 744px;
+}
+.btn4{
+    border-style: solid;
+    float : right;
+    height: 50px;
+    width: 150px;
+    background-color: crimson;
+}
+.end{
+    float : none;
+}
